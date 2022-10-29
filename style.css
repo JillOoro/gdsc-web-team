@@ -1,0 +1,22 @@
+body{
+    background-color: purple;
+}
+.para{
+    text-align: center;
+}
+.p1{
+    color: white;
+}
+.p2{
+    color: green;
+}
+.lower{
+    display: flex;
+    justify-content: space-between;
+}
+.lower-r{
+    padding-left: 100px;
+}
+.lower-l{
+    padding-right: 100px;
+}
